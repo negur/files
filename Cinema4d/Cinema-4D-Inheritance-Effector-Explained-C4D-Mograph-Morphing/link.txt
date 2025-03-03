@@ -1,0 +1,22 @@
+Cinema 4D Inheritance Effector Explained - C4D Mograph Morphing
+https://youtu.be/EO39BBj_bCY?t=616
+
+В коннектере O нужно включать и выключать текст O чтобы анимация заработала...
+
+
+Cinema 4D Inheritance Effector Explained - C4D Mograph Morphing
+https://youtu.be/EO39BBj_bCY?t=55
+17 мин
+
+Непонятно как рендерить в арнольд матрицу с частицами
+Как отрендерить частицы из Matrix Object в Arnold?
+
+❌ Matrix Object сам по себе не рендерится в стандартном рендере или Arnold.
+✅ Но его можно сделать видимым через Cloner (для геометрии) или Tracer (для линий).
+
+Попробовать...
+X-O-Morphing-3-test.c4d
+
+
+
+
